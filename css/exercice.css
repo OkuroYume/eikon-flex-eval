@@ -77,6 +77,16 @@
   order: 4;
 }
 /* 9. exercice-9 */
-
+.exercice-9 .container {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: baseline;
+  box-sizing: border-box;
+}
 /* 10. exercice-10 */
+.exercice-10 .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
