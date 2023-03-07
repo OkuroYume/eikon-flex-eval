@@ -73,6 +73,10 @@
   align-content: center;
 }
 
+.exercice-8 .element { 
+  flex-grow: 1;
+}
+
 .exercice-8 .element-pink {
   order: 4;
 }
