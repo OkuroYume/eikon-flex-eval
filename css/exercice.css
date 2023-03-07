@@ -54,12 +54,8 @@
   align-content:space-between;
 }
 
-.exercice-6 .element-pink {
+.exercice-6 .element {
   flex-grow: 1;
-}
-
-.exercice-6 .element-yellow, .element-grey {
-  flex-grow: 4;
 }
 /* 7. exercice-7 */
 
